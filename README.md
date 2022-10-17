@@ -2,7 +2,7 @@
 
 > Primeiro desafio do stage sobre javascript para fixar os conhecimentos sobre variáveis, operações matemáticas e de comparação e condicionais.
 
-[🔗 Click here to access the website](https://matheusvaz-dev.github.io/train-me-phase-02)
+[🔗 Click here to access the website](https://matheusvaz-dev.github.io/js-challenge-phase-12/)
 
 ## 🛠️ Technologies
 
